@@ -1,0 +1,11 @@
+{
+	"version": "1.0.0",
+	"redis_host": "localhost",
+	"redis_port": 6379,
+	"redis_prefix": "whiteboard-testing:",
+	"on_register_endpoint": "/on_register",
+	"on_gone_endpoint": "/on_gone",
+	"server_host": "",
+	"server_port": "19999",
+	"mqtt_url": "ws://samick:abcd1234@localhost:8080/mqtt"
+}
